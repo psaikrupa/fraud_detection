@@ -18,3 +18,9 @@ def division(a,b):
     return a
 
 print("division added")
+
+def subtraction(a,b):
+    c = a-b
+    return c
+
+print("subtraction added")
